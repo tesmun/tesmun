@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "a001",
+    "name": "Anuj Jung Thapa",
+    "delegation": "Afghanistan",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a002",
+    "name": "Sarjan Lamichhane",
+    "delegation": "USA",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a003",
+    "name": "Samyog Sedhai",
+    "delegation": "China",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a004",
+    "name": "Eva Shakya",
+    "delegation": "Egypt",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a005",
+    "name": "Aashutosh Poudel",
+    "delegation": "Germany",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a006",
+    "name": "Kripa Thapaliya",
+    "delegation": "Lebanon",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a007",
+    "name": "Nirman Ghimire",
+    "delegation": "Indonesia",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a008",
+    "name": "Samunnat Burlakoti",
+    "delegation": "Isreal",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a009",
+    "name": "Prasiddha Neupane",
+    "delegation": "Russia",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a010",
+    "name": "Naman B.C.",
+    "delegation": "North Korea",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a011",
+    "name": "Agrim Pandey",
+    "delegation": "Nepal",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a012",
+    "name": "Eurosh Maharjan",
+    "delegation": "Palestine",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a013",
+    "name": "Ojaswi Pant",
+    "delegation": "Pakistan",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a014",
+    "name": "Seion Thapa Magar",
+    "delegation": "Qatar",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a015",
+    "name": "Srijaw Maharjan",
+    "delegation": "Japan",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a016",
+    "name": "Prince Gurung",
+    "delegation": "Nigeria",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a017",
+    "name": "Niyukta Shrestha",
+    "delegation": "South Sudan",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a018",
+    "name": "Agrata Silwal",
+    "delegation": "Syriya",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a019",
+    "name": "Kripisha Thapa",
+    "delegation": "Switzerland",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a020",
+    "name": "Ansh Gupta",
+    "delegation": "Ukraine",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a021",
+    "name": "Deep Kiran Neupane",
+    "delegation": "Bangladesh",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a022",
+    "name": "Kastup Pant",
+    "delegation": "UK",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a023",
+    "name": "Priyajala Dhungana",
+    "delegation": "India",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a024",
+    "name": "Sujay Joshi",
+    "delegation": "Iran",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a025",
+    "name": "Zara Gurung",
+    "delegation": "Turkey",
+    "committee": "Human Rights Council",
+    "committeeSlug": "hrc",
+    "committeeAbbr": "HRC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a026",
+    "name": "Ayushman Dahal",
+    "delegation": "USA",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a027",
+    "name": "Shayana Khakurel",
+    "delegation": "Argentina",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a028",
+    "name": "Anuska Adhikari",
+    "delegation": "Brazil",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a029",
+    "name": "Manushree Adhikari Chandani",
+    "delegation": "China",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a030",
+    "name": "Phinjo Norbu Sherpa",
+    "delegation": "Colombia",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a031",
+    "name": "Roneev Udas",
+    "delegation": "DPRK",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a032",
+    "name": "Shara June Maharjan",
+    "delegation": "Ethiopia",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a033",
+    "name": "Sulav Jung Basnet",
+    "delegation": "France",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a034",
+    "name": "Sauravi Shrestha",
+    "delegation": "Germany",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a035",
+    "name": "Pratez Dangi",
+    "delegation": "India",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a036",
+    "name": "Mikel Shrestha",
+    "delegation": "Iran",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a037",
+    "name": "Anshuman Nanda Baidya",
+    "delegation": "Japan",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a038",
+    "name": "Binayak Bastola",
+    "delegation": "Myanmar",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a039",
+    "name": "Krish Pandey",
+    "delegation": "Pakistan",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a040",
+    "name": "Praniva Maharjan",
+    "delegation": "Poland",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a041",
+    "name": "Shaanvi Shrestha",
+    "delegation": "Russia",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a042",
+    "name": "Sugat Subedi",
+    "delegation": "Saudi Arabia",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a043",
+    "name": "Selina Kandel",
+    "delegation": "South Africa",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a044",
+    "name": "Jashmin Subedi",
+    "delegation": "South Korea",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a045",
+    "name": "Aaditya Raj Rimal",
+    "delegation": "Sri Lanka",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a046",
+    "name": "Arogya Aryal",
+    "delegation": "Ukraine",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a047",
+    "name": "Dipman Karki",
+    "delegation": "UK",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a048",
+    "name": "Nickson Shahi",
+    "delegation": "Afghanistan",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a049",
+    "name": "Riya Manandhar",
+    "delegation": "Canada",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a050",
+    "name": "Shashwoat Gautam",
+    "delegation": "Mexico",
+    "committee": "Economic and Social Council",
+    "committeeSlug": "ecosoc",
+    "committeeAbbr": "ECOSOC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a051",
+    "name": "Aashima Bhattarai",
+    "delegation": "USA",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a052",
+    "name": "Sanket K.C.",
+    "delegation": "Belarus",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a053",
+    "name": "Prakalpa Singh Basnyat",
+    "delegation": "Pakistan",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a054",
+    "name": "Aarav Poudel",
+    "delegation": "Sudan",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a055",
+    "name": "Kendrika Khadka",
+    "delegation": "DPRK",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a056",
+    "name": "Nensee Syangbo Tamang",
+    "delegation": "France",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a057",
+    "name": "Samrat Khanal",
+    "delegation": "India",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a058",
+    "name": "Soval Kunwar",
+    "delegation": "Iran",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a059",
+    "name": "Saya Luitel",
+    "delegation": "Israel",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a060",
+    "name": "Shanvi Rajbhandari",
+    "delegation": "Japan",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a061",
+    "name": "Arpita Maharjan",
+    "delegation": "Lebanon",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a062",
+    "name": "Divyesh Subedi",
+    "delegation": "Nepal",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a063",
+    "name": "Nirav Chapagai",
+    "delegation": "Brazil",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a064",
+    "name": "Sahil Raj Thapa",
+    "delegation": "Palestine",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a065",
+    "name": "Soham Paudel",
+    "delegation": "UK",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a066",
+    "name": "Tsering Lhamu Lama",
+    "delegation": "Saudi Arabia",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a067",
+    "name": "Sadikshya Bhattarai",
+    "delegation": "China",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a068",
+    "name": "Sabhya Devkota",
+    "delegation": "Russia",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a069",
+    "name": "Bhumika Dahal",
+    "delegation": "Ukraine",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a070",
+    "name": "Adhyata Paudel",
+    "delegation": "Afghanistan",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a071",
+    "name": "Arpita Rijal",
+    "delegation": "Yemen",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a072",
+    "name": "Hridaya Raj K.C.",
+    "delegation": "Italy",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a073",
+    "name": "Soumya Shrestha",
+    "delegation": "Germany",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a074",
+    "name": "Sukson Khadka",
+    "delegation": "Iraq",
+    "committee": "Disarmament and International Security Committee",
+    "committeeSlug": "disec",
+    "committeeAbbr": "DISEC",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a075",
+    "name": "Reewaz Paudel",
+    "delegation": "Afghanistan",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a076",
+    "name": "Ritisha Tiwari",
+    "delegation": "Bangladesh",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a077",
+    "name": "Karma Ongyal Gurung",
+    "delegation": "Canada",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a078",
+    "name": "Pranab Bajracharya",
+    "delegation": "DPRK",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a079",
+    "name": "Sammunat Regmi",
+    "delegation": "France",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a080",
+    "name": "Shubhatmika Ghimire",
+    "delegation": "Brazil",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a081",
+    "name": "Yudin Thapa Magar",
+    "delegation": "Germany",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a082",
+    "name": "Subrat Raut",
+    "delegation": "Kenya",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a083",
+    "name": "Bishesh Bhatt",
+    "delegation": "Iran",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a084",
+    "name": "Ariva Shrestha",
+    "delegation": "India",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a085",
+    "name": "Bivuti Pudasaini",
+    "delegation": "Israel",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a086",
+    "name": "Kristina Gurung",
+    "delegation": "Malaysia",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a087",
+    "name": "Pranzole Mahara Chhetri",
+    "delegation": "Nepal",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a088",
+    "name": "Ayesha Giri",
+    "delegation": "Mexico",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a089",
+    "name": "Yangtsen Tsomo Baijee",
+    "delegation": "Australia",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a090",
+    "name": "Shreeti Baral",
+    "delegation": "Norway",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a091",
+    "name": "Savannah Thapaliya",
+    "delegation": "Philippines",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a092",
+    "name": "Adhrit Regmi",
+    "delegation": "China",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a093",
+    "name": "Supreme Chapagain",
+    "delegation": "Russia",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a094",
+    "name": "Aayan Maharjan",
+    "delegation": "South Africa",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a095",
+    "name": "Arpita Lamichhane",
+    "delegation": "United Arab Emirates",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a096",
+    "name": "Falak K.C.",
+    "delegation": "United Kingdom",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a097",
+    "name": "Nivaan Jung Adhikari",
+    "delegation": "Ukraine",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a098",
+    "name": "Sejal Adhikari",
+    "delegation": "United States of America",
+    "committee": "United Nations Environment Programme",
+    "committeeSlug": "unep",
+    "committeeAbbr": "UNEP",
+    "position": "Delegate",
+    "type": "International"
+  },
+  {
+    "id": "a099",
+    "name": "Shivatmika Bhatta",
+    "delegation": "Ravi Lamichhane",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a100",
+    "name": "Aarna Shrestha",
+    "delegation": "Sita Badi",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a101",
+    "name": "Aashvi Chalise",
+    "delegation": "Sobita Gautam",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a102",
+    "name": "Ayaan Upreti",
+    "delegation": "Biraj Bhakta Shrestha",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a103",
+    "name": "Ayub Lamsal",
+    "delegation": "Balendra Shah",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a104",
+    "name": "Bhaswan Man",
+    "delegation": "Shishir Khanal",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a105",
+    "name": "Bigyapti Khanal",
+    "delegation": "Gita Chaudhary",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a106",
+    "name": "Binaz Khadka",
+    "delegation": "Manish Jha",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a107",
+    "name": "Deepsana Tuladhar",
+    "delegation": "Jagadish Khrel",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a108",
+    "name": "Jaisna Gurung",
+    "delegation": "Pratibha Rawal",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a109",
+    "name": "Prinsha Shrestha",
+    "delegation": "Dr. Swornim Wagle",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a110",
+    "name": "Kavin Neupane",
+    "delegation": "Sunil Lamsal",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a111",
+    "name": "Sandipta Rimal",
+    "delegation": "Swasmit Pokhrel",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a112",
+    "name": "Krelina Shrestha",
+    "delegation": "Gauri Kumari",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a113",
+    "name": "Mission G.C.",
+    "delegation": "Khdak Raj Poudel",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a114",
+    "name": "Suprim Subedi",
+    "delegation": "Bikram Timalsina",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a115",
+    "name": "Sophiya Lama",
+    "delegation": "Nisha Mehata",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a116",
+    "name": "Prasanna Adhikari",
+    "delegation": "Sudhan Gurung",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a117",
+    "name": "Prasiddha Rajak",
+    "delegation": "Aarjunnarsingh K.C.",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a118",
+    "name": "Kanvi K.C",
+    "delegation": "Gita Gurung",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a119",
+    "name": "Kerin Dhakal",
+    "delegation": "Bharat Kumar Swar",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a120",
+    "name": "Aarav Lamichhane",
+    "delegation": "Nishkal Rai",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a121",
+    "name": "Tenzin Yiwang",
+    "delegation": "Bhishma Raj Aangden",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a122",
+    "name": "Suvam Kiju",
+    "delegation": "Yogesh Gauchan",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a123",
+    "name": "Samyog Chaurel",
+    "delegation": "Padma Kumari Aryal",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a124",
+    "name": "Pratyush Bartaula",
+    "delegation": "Ram Bahadur Thapa",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a125",
+    "name": "Sanish Karki",
+    "delegation": "Suhang Nemwang",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a126",
+    "name": "Pema Yangzom",
+    "delegation": "Ain Bahadur Mahar",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a127",
+    "name": "Prapti Subedi",
+    "delegation": "Mohammad Istiyak Rai",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a128",
+    "name": "Sabuj Jung Dhakal",
+    "delegation": "Puspa Kamal Dahal",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Nepal Communist Party (NCP)",
+    "type": "National"
+  },
+  {
+    "id": "a129",
+    "name": "Rachit Ojha",
+    "delegation": "Barsha Man Pun",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Nepal Communist Party (NCP)",
+    "type": "National"
+  },
+  {
+    "id": "a130",
+    "name": "Samrat Lamichhane",
+    "delegation": "Harka Raj Rai",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Shram Sanskriti Party (SSP)",
+    "type": "National"
+  },
+  {
+    "id": "a131",
+    "name": "Sulav Thapaliya",
+    "delegation": "Aambika Devi Sangraula",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Shram Sanskriti Party (SSP)",
+    "type": "National"
+  },
+  {
+    "id": "a132",
+    "name": "Siddhima Kansakar",
+    "delegation": "Gyan Badur Shah",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Prajatra Party (RPP)",
+    "type": "National"
+  },
+  {
+    "id": "a133",
+    "name": "Prapti Parajuli",
+    "delegation": "Khushbu Oli",
+    "committee": "Legislative Parliament I",
+    "committeeSlug": "lp1",
+    "committeeAbbr": "LP I",
+    "position": "Rastriya Prajatra Party (RPP)",
+    "type": "National"
+  },
+  {
+    "id": "a134",
+    "name": "Aabiskar Giri",
+    "delegation": "Pratibha Rawal",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a135",
+    "name": "Anjali Bhandari",
+    "delegation": "Sobita Gautam",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a136",
+    "name": "Anmol Kadayat",
+    "delegation": "Manish Jha",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a137",
+    "name": "Sarbagya Raj Subedi",
+    "delegation": "Pratibha Rawal",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a138",
+    "name": "Saina San Thakali",
+    "delegation": "Jagadish Khrel",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a139",
+    "name": "Tenzin Gole Tamang",
+    "delegation": "Bikram Timalsina",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a140",
+    "name": "Krisha Lama",
+    "delegation": "Shishir Khanal",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a141",
+    "name": "Kristina Lama",
+    "delegation": "Sita Badi",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a142",
+    "name": "Rhydam Panta",
+    "delegation": "Sunil Lamsal",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a143",
+    "name": "Kritesh Maharjan",
+    "delegation": "Biraj Bhakta Shrestha",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a144",
+    "name": "Sahaz Subedi",
+    "delegation": "Swasmit Pokhrel",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a145",
+    "name": "Manjul Pratap Ghimire",
+    "delegation": "Balendra Shah",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a146",
+    "name": "Nizma Maharjan",
+    "delegation": "Gauri Kumari",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a147",
+    "name": "Sirika Dangol",
+    "delegation": "Gita Chaudhary",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a148",
+    "name": "Pranshi Bagale",
+    "delegation": "Nisha Mehata",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a149",
+    "name": "Prasanna Puri",
+    "delegation": "Ravi Lamichhane",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a150",
+    "name": "Prayush Man Tuladhar",
+    "delegation": "Sudhan Gurung",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a151",
+    "name": "Priyanshu Lama",
+    "delegation": "Khdak Raj Poudel",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a152",
+    "name": "Ratish Bhandari",
+    "delegation": "Swornim Wagle",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "RSP ( Rastriya Swotantra Party)",
+    "type": "National"
+  },
+  {
+    "id": "a153",
+    "name": "Suhana Budhathoki",
+    "delegation": "Bhishma Raj Aangdembe",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Nepal Congress",
+    "type": "National"
+  },
+  {
+    "id": "a154",
+    "name": "Rohan Tamrakar",
+    "delegation": "Nishkal Rai",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Nepal Congress",
+    "type": "National"
+  },
+  {
+    "id": "a155",
+    "name": "Sarthak Miringching",
+    "delegation": "Gita Gurung",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Nepal Congress",
+    "type": "National"
+  },
+  {
+    "id": "a156",
+    "name": "Soubhagya Chandra Mahat",
+    "delegation": "Aarjunnarsingh K.C",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Nepal Congress",
+    "type": "National"
+  },
+  {
+    "id": "a157",
+    "name": "Liyon Gurung",
+    "delegation": "Bharat Kumar Swar",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Nepal Congress",
+    "type": "National"
+  },
+  {
+    "id": "a158",
+    "name": "Khukuni Rai",
+    "delegation": "Yogesh Gauchan",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Nepal Congress",
+    "type": "National"
+  },
+  {
+    "id": "a159",
+    "name": "Pallav Mahat",
+    "delegation": "Ram Bahadur Thapa",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a160",
+    "name": "Kritagya Nepal",
+    "delegation": "Mohammad Istiyak Rai",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a161",
+    "name": "Sulav Ghimire",
+    "delegation": "Padma Kumari Aryal",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a162",
+    "name": "Sneha Gurung",
+    "delegation": "Ain Bahadur Mahar",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a163",
+    "name": "Somiya Gupta",
+    "delegation": "Suhang Nemwang",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a164",
+    "name": "Evesh K.C.",
+    "delegation": "Barsha Man Pun",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Nepal Communist Party(NCP)",
+    "type": "National"
+  },
+  {
+    "id": "a165",
+    "name": "Tshering Dolma Gurung",
+    "delegation": "Pushpa Kamal Dahal",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Nepal Communist Party(NCP)",
+    "type": "National"
+  },
+  {
+    "id": "a166",
+    "name": "Yuvika Adhikari",
+    "delegation": "Harka Raj Rai",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Shram Sanskriti Party (SSP)",
+    "type": "National"
+  },
+  {
+    "id": "a167",
+    "name": "Saija Thapa",
+    "delegation": "Aambika Devi Sangraula",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Shram Sanskriti Party (SSP)",
+    "type": "National"
+  },
+  {
+    "id": "a168",
+    "name": "Gaurav Dahal",
+    "delegation": "Gyan Badur Shahi",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Rastriya Prajatantra Party (RPP)",
+    "type": "National"
+  },
+  {
+    "id": "a169",
+    "name": "Season Singh",
+    "delegation": "Khushbu Oli",
+    "committee": "Legislative Parliament II",
+    "committeeSlug": "lp2",
+    "committeeAbbr": "LP II",
+    "position": "Rastriya Prajatantra Party (RPP)",
+    "type": "National"
+  },
+  {
+    "id": "a170",
+    "name": "Sidhanta Bohara",
+    "delegation": "Sobita Gautam",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a171",
+    "name": "Uplabdhi Bartaula",
+    "delegation": "Ravi Lamichhane",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a172",
+    "name": "Aayaz Ghole",
+    "delegation": "Manish Jha",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a173",
+    "name": "Suprem Sharma Chalise",
+    "delegation": "Balendra shah",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a174",
+    "name": "Prasiddhi Khanal",
+    "delegation": "Biram Timalsina",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a175",
+    "name": "Atharba Simkhada",
+    "delegation": "Swasmit Pokhrel",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a176",
+    "name": "Bishesh Achyut Bhandari",
+    "delegation": "Shishir Khanal",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a177",
+    "name": "Sejan Lal Shrestha",
+    "delegation": "Jagadish Khrel",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a178",
+    "name": "Rashika K.C.",
+    "delegation": "Pratibha Rawal",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a179",
+    "name": "Dipesh Osti",
+    "delegation": "Biraj Bhakta Shrestha",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a180",
+    "name": "Doreen Shrestha",
+    "delegation": "Bharat Kumar Swar",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a181",
+    "name": "Dridhata Khanal",
+    "delegation": "Sunil Lamsal",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a182",
+    "name": "Kabya Maharjan",
+    "delegation": "Gauri Kumari",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a183",
+    "name": "Kairavin Tuladhar",
+    "delegation": "Gita Chaudhary",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a184",
+    "name": "Kashvi Pantha",
+    "delegation": "Nisha Mehata",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a185",
+    "name": "Leniska Shrestha",
+    "delegation": "Sita Badi",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a186",
+    "name": "Medha Ghimire",
+    "delegation": "Sudhan Gurung",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a187",
+    "name": "Nirmit Pradhan",
+    "delegation": "Khdak Raj Poudel",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a188",
+    "name": "Pallabi Neupane",
+    "delegation": "Swornim wagle",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Swatantra Party (RSP)",
+    "type": "National"
+  },
+  {
+    "id": "a189",
+    "name": "Pasang Lama Sherpa",
+    "delegation": "Nishkal Rai",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a190",
+    "name": "Pranay Gopal K.C.",
+    "delegation": "Gita Gurung",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a191",
+    "name": "Doreen Shrestha",
+    "delegation": "Bharat Kumar Swar",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a192",
+    "name": "Swapnil Dev Giri",
+    "delegation": "Aarjunnarsingh K.C.",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a193",
+    "name": "Tanuj Gauchan",
+    "delegation": "Yogesh Gauchan",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a194",
+    "name": "Shristina Dura Pulami",
+    "delegation": "Bhishma Raj Aangdembe",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Nepali Congress (NC)",
+    "type": "National"
+  },
+  {
+    "id": "a195",
+    "name": "Aashra Shakya",
+    "delegation": "Ram Bahadur Thapa",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a196",
+    "name": "Digant Shrestha",
+    "delegation": "Mohammad Istiyak Rai",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a197",
+    "name": "Shovan Khadka",
+    "delegation": "Padma Kumari Aryal",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a198",
+    "name": "Samyog Churel",
+    "delegation": "Ain Bahadur Mahar",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a199",
+    "name": "Dibya Pudasain",
+    "delegation": "Suhang Nemwang",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Communist Party of Nepal (CPNUML)",
+    "type": "National"
+  },
+  {
+    "id": "a200",
+    "name": "Aaradhya Bharati",
+    "delegation": "Pushpa Kamal Dahal",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Nepal Communist Party (NCP)",
+    "type": "National"
+  },
+  {
+    "id": "a201",
+    "name": "Alison Moktan",
+    "delegation": "Barsha Man Pun",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Nepal Communist Party (NCP)",
+    "type": "National"
+  },
+  {
+    "id": "a202",
+    "name": "Pratham Adhikari",
+    "delegation": "Aambika devi Sangraula",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Shram Sanskriti Party (SSP)",
+    "type": "National"
+  },
+  {
+    "id": "a203",
+    "name": "Rishav Mainali",
+    "delegation": "Harka Raj Rai",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Shram Sanskriti Party (SSP)",
+    "type": "National"
+  },
+  {
+    "id": "a204",
+    "name": "Rajashwi Pradhan",
+    "delegation": "Khushbu Oli",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Prajjatra Party (RPP)",
+    "type": "National"
+  },
+  {
+    "id": "a205",
+    "name": "Anjas Khanal",
+    "delegation": "Gyan Badur Shahi",
+    "committee": "Legislative Parliament III",
+    "committeeSlug": "lp3",
+    "committeeAbbr": "LP III",
+    "position": "Rastriya Prajjatra Party (RPP)",
+    "type": "National"
+  }
+]

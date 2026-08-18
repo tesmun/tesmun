@@ -1,16 +1,25 @@
-## Hi there 👋
+# TESMUN XIV
 
-<!--
-**tesmun/tesmun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official conference website for The Excelsior School Model United Nations, session XIV.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vite + React + TypeScript + Tailwind CSS v4 + Framer Motion
+
+## Structure
+
+```
+src/
+  App.tsx
+  main.tsx
+  index.css
+  components/
+  lib/
+  pages/
+public/images/
+```
+
+## Scripts
+
+- `npm run dev` — local development
+- `npm run build` — production build
